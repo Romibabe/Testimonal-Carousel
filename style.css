@@ -11,8 +11,8 @@
 
 .card-panel{
   height:300px;
-  border-radius: 15px;
-  padding:60px;
+  /*border-radius: 15px;*/
+  /*padding:60px;*/
 
 
 
@@ -23,9 +23,10 @@
  font-size: 35px;
 }
 #carousel{
-  padding-left:160px;
-  padding-right:160px;
+ padding-left:25px;
+ padding-right:25px;
   padding-top:20px;
+  padding-bottom:20px;
 }
 
 
